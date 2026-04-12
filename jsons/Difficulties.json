@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Fair",
-		"baseHappiness": 12,
+		"baseHappiness": 16,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 8,
 		"unitSupplyPerCity": 2,
-		"buildingCostModifier": 0.25,
+		"buildingCostModifier": 0.1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.5,
