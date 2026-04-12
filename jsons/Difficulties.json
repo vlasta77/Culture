@@ -1,9 +1,9 @@
-[
+8[
 	{
 		"name": "Fair",
 		"baseHappiness": 16,
 		"extraHappinessPerLuxury": 0,
-		"researchCostModifier": 1,
+		"researchCostModifier": 2.0,
 		"unitCostModifier": 1,
 		"unitSupplyBase": 8,
 		"unitSupplyPerCity": 2,
