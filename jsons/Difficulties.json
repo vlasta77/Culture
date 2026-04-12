@@ -21,7 +21,7 @@
 		"aiUnitMaintenanceModifier": 0.5,
 		"aiUnitSupplyModifier": 0,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Scout", "Scout"]
+		"aiMajorCivBonusStartingUnits": ["Scout", "Scout"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
