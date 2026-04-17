@@ -2,9 +2,9 @@
 	{
 		"columnNumber": 0,
 		"era": "Ancient era",
-		"techCost": 20,
-		"buildingCost": 40,
-		"wonderCost": 185,
+		"techCost": 5,
+		"buildingCost": 25,
+		"wonderCost": 200,
 		"techs": [
 			{
 				"name": "Agriculture",
@@ -17,8 +17,8 @@
 	{
 		"columnNumber": 1,
 		"era": "Ancient era",
-		"techCost": 35,
-		"buildingCost": 60,
+		"techCost": 5,
+		"buildingCost": 50,
 		"wonderCost": 250,
 		"techs": [
 			{
